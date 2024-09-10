@@ -1,5 +1,4 @@
-### ADVANCED DATA ANALYSIS ASSIGNMENT 1
-setwd("C:/Users/david/Desktop/UOFG subjects/ADVANCED data analysis")
+### Insight into property prices in Bournemouth County, England
 library(ggplot2)
 library(latex2exp)
 library(GGally)
